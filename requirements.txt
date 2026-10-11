@@ -1,0 +1,9 @@
+biopython
+matplotlib
+networkx
+numpy
+pandas
+scipy
+ipython
+ipykernel
+jupyterlab
